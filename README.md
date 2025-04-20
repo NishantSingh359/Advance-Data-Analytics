@@ -6,7 +6,7 @@
 ![Change-Over-Time](https://github.com/user-attachments/assets/a6dc4a42-d363-4ca2-ad72-807b7ab33d05)
 
 # Cumulative Analysis
-![Uploading Cumulative Analysis.png…]()
+![Cumulative Analysis](https://github.com/user-attachments/assets/db260ea6-0646-46ed-a86c-4d951dbe16db)
 
 # Performances Analysis
 ![Performance Analysis](https://github.com/user-attachments/assets/e884c1a4-1d50-4d02-a491-2c5275ebf6cc)
